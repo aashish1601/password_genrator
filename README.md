@@ -5,8 +5,6 @@ Features
 
 Generates strong and random passwords
 
-
 Allows customization of password length
-
 
 Includes options for including uppercase letters, lowercase letters, numbers, and special characters in passwords
